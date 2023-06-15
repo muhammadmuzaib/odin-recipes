@@ -1,0 +1,22 @@
+/* subpage-lasagna.css*/
+
+body {
+    background-color: beige;
+}
+
+#top-header {
+    color: rgb(255, 215, 0);
+    background-color: black;
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#lasagna-image {
+    display: block;
+    height: auto;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 8px;
+}

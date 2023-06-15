@@ -1,0 +1,44 @@
+/* mainstyles.css */
+
+body {
+    background-color: beige;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(2, 0, 0, 0.589);
+}
+
+.header {
+    background-color: rgba(79, 46, 155, 0.507);
+    font-size: 36px;
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    font-style: oblique;
+    color:rgb(255, 215, 0);
+    display: inline;
+    border-radius: 25px;
+}
+
+.flex-container {
+    display: flex;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+a:link {
+    color: red;
+    margin: 230px;
+    border: 1px solid;
+}
+
+a:visited {
+    color:tomato;
+}
+
+a:hover {
+    color: maroon;
+}
+
+a:active {
+    color: blue;
+}
